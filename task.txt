@@ -1,0 +1,2 @@
+const vj="apple"
+console.log(vj)
